@@ -5,7 +5,7 @@ This repository houses python and MATLAB routines that are used in the extractio
 The MATLAB code only requires the basic software provided by MATLAB.
 The python code only requries *numpy*, *h5py*, *matplotlib*, and *ffmpeg**.
 
-*Note *ffmpeg* is not required, but reccomended. Any other python movie making options in the Animate function in *matplotlib*. 
+*Note *ffmpeg* is not required, but reccomended. Any other python movie making options in the Animate function in *matplotlib* should work with minimal alteration to the codes.
 
 ## Included Codes
 
