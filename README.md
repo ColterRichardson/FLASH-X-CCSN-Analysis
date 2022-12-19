@@ -9,9 +9,16 @@ The python code only requries *numpy*, *h5py*, *matplotlib*, and *ffmpeg**.
 
 ## Included Codes
 
+* flash_x_analysis.py
+  * CCSN_1D_CHK("Path to data directory")
+  * CCSN_1D_PLT("Path to data directory")
+
+
 ## Set-up
 
 ## Examples
 
 ## TODO
 
+Analysis codes have been written by Colter Richardson, Jesse Buffaloe, and Ran Chu.
+The FLASH-X framework can be found https://flash-x.org/.
